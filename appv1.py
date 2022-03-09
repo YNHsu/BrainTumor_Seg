@@ -9,7 +9,7 @@ import time
 st.title("Brain tumor segmentation Web")
 
 st.markdown(unsafe_allow_html=True, body="<p>In this web, you can select a CT image of the brain and predict the tumor regions.</p>"
-                                         "<p>The model used is a High-resolution Network(HRNet) that outperforms the UNet and UNet++ models.</p>")
+                                         "<p>The model used is a HRNet(High-resolution Network) that outperforms the UNet and UNet++ models.</p>")
                                         
 
 # =============================================================================
